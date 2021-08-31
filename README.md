@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aswinikalyan30
-- 👀 I’m interested in webdevelopment and UX
-- 🌱 I’m currently learning deep leaerning using R
-- 💞️ I’m looking to collaborate on front-end development and machine learning projects
+- 👀 I’m interested in data analysis, MLOps and Big Data
+- 🌱 I’m currently learning deep learning using python
+- 💞️ I’m looking to collaborate on data analysis and machine learning projects
 - 📫 How to reach me: Email me at ashwinikalyan30@gmail.com
 
 <!---
