@@ -3,10 +3,15 @@
 - 🌱 I’m currently learning deep learning using python
 - 💞️ I’m looking to collaborate on data analysis and machine learning projects
 - 📫 How to reach me: Email me at ashwinikalyan30@gmail.com
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aswinikalyan30&theme=tokyonight&show_icons=true" />
+<a href="https://github.com/aswinikalyan30">
+<a href="https://github.com/aswinikalyan30">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=aswinikalyan30&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
+</a>
 
-<h3> &nbsp;Connect with me </h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/aswinikalyan30/"><img alt="LinkedIn" src="https://media-exp1.licdn.com/dms/image/D5635AQH5UZ3Bud4_vw/profile-framedphoto-shrink_200_200/0/1631276426901?e=1632492000&v=beta&t=qxv85IEQortMTr0pZCeGD6gWwNLTGUjVmaqPyeUBgEQ">
-</p>
-
+## Connect with me:
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ <br>
+[twitter]: https://twitter.com/AswiniKalyan
+[linkedin]: https://www.linkedin.com/in/aswinikalyan30/
+  
