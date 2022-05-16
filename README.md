@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React projects 
 <br></br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aswinikalyan30&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br>
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aswinikalyan30&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br> -->
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/aswinikalyan30/aswinikalyan30/blob/main/devcard.svg" width="200" height="300" alt="DevCard"/></a>  
 
 
