@@ -19,7 +19,7 @@
 <br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aswinikalyan30&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/aswinikalyan30/aswinikalyan30/blob/main/devcard.svg" width="140" height="210" alt="DevCard" align="centre"/></a>
 
 
 You can reach out to me on my socials at: 
@@ -27,4 +27,4 @@ You can reach out to me on my socials at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswinikalyan30/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ashgreninja30_5)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/aswinikalyan30/aswinikalyan30/blob/main/devcard.svg" width="200" height="300" alt="DevCard"/></a>  
+  
