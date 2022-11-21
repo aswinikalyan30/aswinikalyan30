@@ -2,8 +2,8 @@
 ![galaxy banner](https://user-images.githubusercontent.com/76677408/169855063-a1cfd4a6-9dc0-41cb-a1c2-2cea334eb224.png)
 
 - 👋 Hi, I’m @aswinikalyan30
-- 👀 I’m interested in DS & JS
-- 🌱 I’m currently learning React
+- 👀 I’m interested in building scalable SaaS web-apps
+- 🌱 I’m currently learning Next.js and AWS
 - 💞️ I’m looking to collaborate on React projects 
 <br></br>
 ## Tech Stack:
