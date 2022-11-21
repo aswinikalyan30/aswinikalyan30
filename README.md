@@ -13,12 +13,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 <br>
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aswinikalyan30&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/aswinikalyan30/aswinikalyan30/blob/main/devcard.svg" width="140" height="210" alt="DevCard" align="centre"/></a>
 
 
