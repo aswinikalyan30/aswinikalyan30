@@ -17,7 +17,7 @@
 <br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aswinikalyan30&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/aswinikalyan30/aswinikalyan30/blob/main/devcard.svg" width="140" height="210" alt="DevCard" align="centre"/></a>
+<a href="https://app.daily.dev/aswinik"><img src="https://api.daily.dev/devcards/v2/hfMXVzAZhHuEMtTuh0wgK.png?r=s3u&type=wide" width="444" alt="Aswini Kalyan's Dev Card"/></a>
 
 
 You can reach out to me on my socials at: 
