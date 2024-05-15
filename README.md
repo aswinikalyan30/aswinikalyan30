@@ -36,13 +36,11 @@
 
 
 # Streaks 
-  <img src="https://github-profile-trophy.vercel.app/?username=aswinikalyan30&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aswinikalyan30&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-  ![Aswini's Github Stats](https://github-readme-stats.vercel.app/api?username=aswinikalyan30&show_icons=true&theme=radical)
-  
-<a href="https://app.daily.dev/aswinik"><img src="https://api.daily.dev/devcards/v2/hfMXVzAZhHuEMtTuh0wgK.png?r=s3u&type=wide" width="444" alt="Aswini Kalyan's Dev Card"/></a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=aswinikalyan30&theme=rogue" width="555" height="250"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=aswinikalyan30&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies"/>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=aswinikalyan30&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D" width="400" alt="Stats"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=aswinikalyan30&show_icons=true&theme=radical" width="400" alt="Stats"/></a>
+<a href="https://app.daily.dev/aswinik"><img src="https://api.daily.dev/devcards/v2/hfMXVzAZhHuEMtTuh0wgK.png?r=s3u&type=wide" width="400" alt="Aswini Kalyan's Dev Card"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=aswinikalyan30&theme=rogue" width="420"/></a>
 
 # Know more at: 
 
